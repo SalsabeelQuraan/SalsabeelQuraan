@@ -1,6 +1,3 @@
-تمام 👌 فهمت. خليني أعيد كتابة الـ **README.md** لك على مقاسك وباللغة الإنجليزية، باستخدام مصطلحات الـ IT اللي بتناسب خبراتك ومجالك. عملتلك نسخة احترافية جاهزة تنحط على GitHub:
-
-```markdown
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
@@ -56,8 +53,3 @@
 
 ### 😂 Random Dev Joke
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="100%" />
-```
-
----
-
-هل بتحبي أضيف جزء خاص في **Projects Section** عشان تعرضي شغلك (Websites / Data Analysis Dashboards / Blockchain Projects) ولا نخليه بسيط زي هيك كبداية؟
