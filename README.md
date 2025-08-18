@@ -31,17 +31,3 @@
 ![Salsabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalsabeelQuraan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalsabeelQuraan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalsabeelQuraan&theme=dark)](https://git.io/streak-stats)
-
----
-
-### ✨ Quote of the Day
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-<i>“The best way to predict the future is to invent it.” — Alan Kay</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
----
-
-### 😂 Random Dev Joke
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="100%" />
