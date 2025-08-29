@@ -7,7 +7,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 - 🎓 My name is **Salsabeel Quraan**, currently studying **Business IT**.  
-- 💻 I’m a **Full-Stack Web Developer** with strong skills in **Front-End & Back-End Development**.  
+- 💻 I’m a **Front-end & Back-end Web Developer**.
 - 🧑‍💻 Programming Languages: **JavaScript, Python, C#, HTML, CSS**.  
 - 📊 Passionate about **Data Analysis & Visualization** using **Power BI**.  
 - 🌐 Interested in **Blockchain, Smart Contracts, and IT solutions** that bridge business with technology.  
