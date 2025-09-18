@@ -2,6 +2,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/salsabeel-quraan-377093269" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
+<a href="https://www.facebook.com/share/1CPNyKEia7/?mibextid=wwXIfr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>&nbsp;
 <a href="https://discord.com/channels/@salsabeel9858" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40" width="30" /></a>
 </p>
 
