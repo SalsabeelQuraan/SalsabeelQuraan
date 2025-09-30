@@ -11,7 +11,7 @@
 - 💻 I’m a **Full Stack Web Developer**.
 - 🧑‍💻 Programming Languages: **JavaScript, Python, C#, HTML, CSS**.  
 - 📊 Passionate about **Data Analysis & Visualization** using **Power BI**.  
-- 🌐 Interested in **Blockchain, Smart Contracts, and IT solutions** that bridge business with technology.  
+- 🌐 Interested in **IT solutions** that bridge business with technology.  
 - ⚡ Fun fact: I enjoy solving real-world business and IT problems with clean, efficient code.  
 
 ---
