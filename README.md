@@ -6,7 +6,7 @@
 <a href="https://discord.com/channels/@salsabeel9858" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40" width="30" /></a>
 </p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎓 My name is **Salsabeel Quraan**, currently studying **Business IT**.  
 - 💻 I’m a **Full Stack Web Developer & Data Analyst**.
 - 🧑‍💻 Programming Languages: **JavaScript, Python, C#, HTML, CSS**.  
