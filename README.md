@@ -8,7 +8,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 - 🎓 My name is **Salsabeel Quraan**, currently studying **Business IT**.  
-- 💻 I’m a **Full Stack Web Developer**.
+- 💻 I’m a **Full Stack Web Developer & Data Analyst**.
 - 🧑‍💻 Programming Languages: **JavaScript, Python, C#, HTML, CSS**.  
 - 📊 Passionate about **Data Analysis & Visualization** using **Power BI**.  
 - 🌐 Interested in **IT solutions** that bridge business with technology.  
