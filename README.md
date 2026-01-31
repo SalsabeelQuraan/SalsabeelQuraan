@@ -25,10 +25,3 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="55" height="55"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-![Salsabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalsabeelQuraan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalsabeelQuraan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalsabeelQuraan&theme=dark)](https://git.io/streak-stats)
