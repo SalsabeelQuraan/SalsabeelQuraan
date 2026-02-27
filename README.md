@@ -10,7 +10,7 @@
 - 🎓 My name is **Salsabeel Quraan**, currently studying **Business IT**.  
 - 💻 I’m a **Full Stack Web Developer & Data Analyst**.
 - 🧑‍💻 Programming Languages: **JavaScript, Python, C#, HTML, CSS**.  
-- 📊 Passionate about **Data Analysis & Visualization** using **Power BI**.  
+- 📊 Passionate about **Data Analysis & Visualization** using **Power BI, Weka, Decision Explorer**.  
 - 🌐 Interested in **IT solutions** that bridge business with technology.  
 - ⚡ Fun fact: I enjoy solving real-world business and IT problems with clean, efficient code.  
 
