@@ -48,4 +48,4 @@ Built for **JOSWE Pharmaceutical** to replace manual Excel-based production trac
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/salsabeel-quraan) • [GitHub](https://github.com/SalsabeelQuraan)
+[LinkedIn](https://www.linkedin.com/in/salsabeel-quraan) • [Gmail](mailto:salsabeel.quraan123@gmail.com)
