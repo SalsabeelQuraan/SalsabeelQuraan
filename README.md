@@ -1,12 +1,5 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<p align="center">
-<a href="https://www.linkedin.com/in/salsabeel-quraan" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="https://www.facebook.com/share/1CPNyKEia7/?mibextid=wwXIfr" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="facebook" height="30" width="30" /></a>&nbsp;
-<a href="https://discord.com/channels/@salsabeel9858" target="blank"><img align="center" src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" alt="discord" height="40" width="30" /></a>
-<a href="mailto:salsabeel.quraan123@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="gmail" height="40" width="30" /></a>
-</p>
-
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎓 Salsabeel Qura'an — Bachelor's Degree in Business Information Technology, Yarmouk University (2022–2026).
 - 💻 Data Analyst | Full-Stack Web Developer | Project IT Manager.
