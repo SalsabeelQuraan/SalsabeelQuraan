@@ -24,7 +24,7 @@ Built for **JOSWE Pharmaceutical** to replace manual Excel-based production trac
 - 🧮 10+ DAX measures (Utilization Rate, Yield %, Delay Rate, Achieved Batch %) using SUMX, AVERAGEX, CALCULATE, FILTER
 - 🖥️ Full-stack data entry UI (5 pages) — HTML/CSS/JS front end + Node.js/Express REST API, with RTL Arabic support
 - 🔄 ETL pipeline: extraction from 6 source Excel workbooks → cleaning & validation → SQL Server, applying ALCOA+ data integrity principles
-- 🔗 [View Project](https://github.com/SalsabeelQuraan/Graduation-Project)
+- 🔗 [View Blistering Production Analytics Platform](https://github.com/SalsabeelQuraan/Graduation-Project)
 
 ---
 
