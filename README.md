@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🎓 Salsabeel Qura'an — Bachelor's Degree in Business Information Technology, Yarmouk University (2022–2026).
+- 🎓 Salsabeel Ibraheem Qura'an — Bachelor's Degree in Business Information Technology (Business IT), Yarmouk University (2022–2026).
 - 💻 Data Analyst | Full-Stack Web Developer | Project IT Manager.
 - 🏭 Delivered an end-to-end **Production Analytics Platform (BPAP)** for **JOSWE Pharmaceutical** as my graduation project — replacing manual Excel tracking with a full ETL pipeline, a SQL Server database, a 4-dashboard Power BI solution, and a full-stack Arabic RTL data entry app.
 - 📊 Passionate about **Data Analysis, Business Intelligence & Visualization** using **Power BI, DAX, and Excel**.
