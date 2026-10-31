@@ -185,17 +185,6 @@ End-to-end analytics platform: ETL pipeline, SQL Server database, 4-dashboard Po
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SalsabeelQuraan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalsabeelQuraan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
