@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/salsabeel-quraan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://salsabeelquraan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1B5E6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://salsabeelquraan.github.io/SalsabeelQuraan/"><img src="https://img.shields.io/badge/Portfolio-1B5E6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:salsabeel.quraan123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Based_in-Amman%2C_Jordan-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
