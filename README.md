@@ -193,7 +193,7 @@ I'm open to **Data Analyst**, **BI Developer**, and **Full-Stack Developer** opp
 
 <a href="https://www.linkedin.com/in/salsabeel-quraan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:salsabeel.quraan123@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://salsabeelquraan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-1B5E6B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://salsabeelquraan.github.io/SalsabeelQuraan/"><img src="https://img.shields.io/badge/Portfolio-Visit-1B5E6B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:1B5E6B&height=110&section=footer" alt="footer" />
 
