@@ -44,8 +44,8 @@ A production analytics and quality-improvement system that replaced manual Excel
 | 🖥️ **Data-entry app** | 5-page full-stack UI (HTML/CSS/JS + Node.js/Express REST API) with Arabic RTL support and auto-calculated fields |
 | ✅ **Data integrity** | ALCOA++ principles applied throughout; 20+ Excel formulas documented and converted to DAX |
 
-🔗 **[View the project on GitHub →](https://github.com/SalsabeelQuraan/Graduation-Project)**
-    **[View the project certificate on GitHub →](https://github.com/SalsabeelQuraan/SalsabeelQuraan/Intaj.jpg)**
+📂 **[View the project on GitHub →](https://github.com/SalsabeelQuraan/Graduation-Project)**
+🔗 **[View the project certificate on GitHub →](https://github.com/SalsabeelQuraan/Intaj.jpg)**
 
 ---
 
