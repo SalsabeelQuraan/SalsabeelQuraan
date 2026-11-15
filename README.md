@@ -72,7 +72,7 @@ Full-stack system for small retail stores: ring up sales, track stock, raise pur
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 
-**[Repository →](https://github.com/SalsabeelQuraan/RetailPulse)**
+📂 **[Repository →](https://github.com/SalsabeelQuraan/RetailPulse)**
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +93,7 @@ Turns uploaded Excel/CSV sales history into forecasts, stock-out alerts, and sug
 <img src="https://img.shields.io/badge/IndexedDB-1B5E6B?style=flat-square" />
 <img src="https://img.shields.io/badge/SheetJS-217346?style=flat-square" />
 
-**[Repository →](https://github.com/SalsabeelQuraan/ForecastIQ)**
+📂 **[Repository →](https://github.com/SalsabeelQuraan/ForecastIQ)**
 
 </td>
 </tr>
@@ -115,7 +115,7 @@ A fast, clean task manager with a vanilla JS front end and a Node.js + Express +
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-**[Repository →](https://github.com/SalsabeelQuraan/todo-app)**
+📂 **[Repository →](https://github.com/SalsabeelQuraan/todo-app)**
 
 </td>
 <td width="50%" valign="top">
@@ -135,7 +135,7 @@ End-to-end analytics platform: ETL pipeline, SQL Server database, 4-dashboard Po
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 
-**[Repository →](https://github.com/SalsabeelQuraan/Graduation-Project)**
+📂 **[Repository →](https://github.com/SalsabeelQuraan/Graduation-Project)**
 
 </td>
 </tr>
